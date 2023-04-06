@@ -1,0 +1,20 @@
+ body {
+    font-family: sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+   }
+   .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   }
+   .download-link {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 4px;
+    text-decoration: none;
+   }
+   .download-link:hover {
+    background-color: #3e8e41;
+   }
